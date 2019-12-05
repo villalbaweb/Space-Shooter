@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7e1b555822b6c43a335764cd10f049, type: 3}
+  m_Name: Wave Big Squad - Path 2
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 3374501609404023131, guid: 88c3439c64b4b494aa6e27304df93c0a,
+    type: 3}
+  pathPrefab: {fileID: 4059982600294692344, guid: cd8f3cc54bb9df6479d74b7e46a50dc0,
+    type: 3}
+  timeBetweenSpawns: 5
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 1
+  moveSpeed: 1
